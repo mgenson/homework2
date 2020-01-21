@@ -1,0 +1,90 @@
+
+body {
+    line-height:1;
+    font-family: "lucida grande", sans-serif;
+    background-color: black;
+    color: white;
+}
+h1{
+  margin:0;
+  padding:15px;
+  border:0;
+  outline:0;
+  font-family: "lucida grande", sans-serif;
+  font-size: 64px;
+
+}
+h2{
+  margin:0;
+  padding:0;
+  border:0;
+  outline:0;
+  font-size:30px;
+  color: 'white', black;
+  vertical-align:baseline;
+  background:transparent;
+  font-family: "lucida grande", sans-serif;
+  text-shadow: 4px 4px 1px #808080;
+}
+p{
+  color: white;
+  font-size:24px;
+  padding-top: 20px;
+}
+img{
+  width: 525px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+#intro{
+  /* min and max */
+  background-color: black;
+  min-height: 150px;
+  padding: 25px;
+  text-align: left;
+
+}
+#red{
+  background-color: red;
+  text-align: right;
+  min-height: 150px;
+  padding: 25px
+}
+#blue{
+  background-color: blue;
+  text-align: left;
+  min-height: 150px;
+  padding: 25px;
+}
+#yellow{
+  background-color: yellow;
+  text-align: right;
+  min-height: 150px;
+  padding: 25px;
+
+
+}
+#yellow h2 {
+  color: black;
+  text-shadow: 4px 4px 1px #c7e2c7;
+}
+#yellow p {
+  color: black;
+}
+#green{
+  min-height: 150px;
+  padding: 25px;
+  background-color: green;
+  text-align: left;
+  color: white;
+
+}
+footer{
+  text-align: right;
+  padding-bottom: 10px;
+  padding-right: 10px;
+
+}
